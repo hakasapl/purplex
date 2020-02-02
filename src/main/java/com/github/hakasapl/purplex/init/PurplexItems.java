@@ -20,7 +20,7 @@ public class PurplexItems {
     public static void registerItems(RegistryEvent.Register<Item> event) {
         event.getRegistry().registerAll(
 
-                new Item(new Item.Properties()).setRegistryName(Purplex.MODID, "tutorial_dust"),
+                //new Item(new Item.Properties()).setRegistryName(Purplex.MODID, "tutorial_dust")
                 new BlockItem(PurplexBlocks.purpore, new Item.Properties().group(ItemGroup.MATERIALS)).setRegistryName(PurplexBlocks.purpore.getRegistryName())
 
         );
