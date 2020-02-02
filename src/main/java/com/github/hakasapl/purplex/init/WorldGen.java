@@ -1,9 +1,6 @@
 package com.github.hakasapl.purplex.init;
 
-import com.github.hakasapl.purplex.blocks.BlockPurpore;
-import net.minecraft.world.biome.Biome;
 import net.minecraft.world.gen.GenerationStage;
-import net.minecraft.world.gen.feature.ConfiguredFeature;
 import net.minecraft.world.gen.feature.Feature;
 import net.minecraft.world.gen.feature.OreFeatureConfig;
 import net.minecraft.world.gen.placement.CountRangeConfig;
